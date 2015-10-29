@@ -1,0 +1,1 @@
+This is just me going through a Java 2 EE application tutorial and getting subversion and google code working.
